@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm OussamaKhaled</h1>
-<h3 align="center">🚀 I'm a passionate IT professional specializing in ☁️cloud computing☁️ and ♾️DevOps♾️ practices. With a strong background in AWS🌐</h3>
+<h1 align="center">Hi 👋, I'm Oussama Khaled</h1>
+<h3 align="center">🚀 I'm a passionate IT professional specializing in ☁️cloud computing☁️ and ♾️DevOps♾️ practices</h3>
+<h3 align="center">🚀 With a strong background in AWS 🌐</h3>
 
 
 
